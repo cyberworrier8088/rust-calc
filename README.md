@@ -5,7 +5,7 @@
 
 ## 🛠️ Installation & Usage
 
-To run this calculator locally, make sure you have [Rust and Cargo installed](https://rust-lang.org) or you can use [Demo Easly](https://github.com/cyberworrier8088/rust-calc/releases/download/rust-calc-demo/rust-calc.exe) on your machine. first why for evary platform windows, mac, linux, etc. and second why for windows only exe.
+To run this calculator locally, make sure you have 1. [Rust and Cargo installed](https://rust-lang.org) or you can use 2. [Demo Easly](https://github.com/cyberworrier8088/rust-calc/releases/download/rust-calc-demo/rust-calc.exe) on your machine. first why for evary platform windows, mac, linux, etc. and second why for windows only exe.
 
 1. **Clone the repository:**
    ```bash
@@ -21,3 +21,5 @@ To run this calculator locally, make sure you have [Rust and Cargo installed](ht
    ```bash
    cargo run
    ```
+
+![Demo Img](assets\Screenshot 2026-05-13 142503.png)

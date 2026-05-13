@@ -22,4 +22,4 @@ To run this calculator locally, make sure you have 1. [Rust and Cargo installed]
    cargo run
    ```
 
-![Demo Img](assets\Screenshot 2026-05-13 142503.png)
+![Screenshot](assets/Screenshot%202026-05-13%20142503.png)

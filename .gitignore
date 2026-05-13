@@ -1,0 +1,5 @@
+# this for ignore the heavy compiled outputs :)
+/target/
+
+# this for ignore local text editor settings :)
+.vscode/

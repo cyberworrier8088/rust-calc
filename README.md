@@ -28,4 +28,4 @@ To run this calculator locally, make sure you have 1. [Rust and Cargo installed]
 ![Screenshot](assets/Screenshot%202026-05-13%20142503.png)
 
 ### Demo Video:
-![Screenshot](assets/Screenshot%202026-05-13%20142503.png)
+![Animation](assets/Animation%20%280%29.gif)

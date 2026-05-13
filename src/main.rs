@@ -22,10 +22,11 @@ fn div(a: f64, b: f64) {
     println!("Result : {}", a / b);
 }
 
-// sqr func for two number
-fn sqr(a: f64, b: f64) {
-    println!("Result : {}", (a * a) - (b * b));
+// sqr func for one number
+fn sqr(a: f64) {
+    println!("Result : {}", a.sqrt());
 }
+
 
 fn main() {
     // this for out put  the simple calc txt :)0
@@ -69,7 +70,7 @@ fn main() {
         "2" => sub(num1, num2),
         "3" => mul(num1, num2),
         "4" => div(num1, num2),
-        "5" => sqr(num1, num2),
+        "5" => sqr(num1),
         "exit" => println!("exit"),      // Exit the program using std
         _ => println!("Invalid choice"), // Invalid choice message
     }

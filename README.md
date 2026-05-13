@@ -22,8 +22,6 @@ To run this calculator locally, make sure you have 1. [Rust and Cargo installed]
    cargo run
    ```
 
-![Screenshot](assets/Screenshot%202026-05-13%20142503.png)
-
 <p align="center">
   <img src="assets/Screenshot%202026-05-13%20142503.png" alt="Screenshot" width="600">
 </p>
